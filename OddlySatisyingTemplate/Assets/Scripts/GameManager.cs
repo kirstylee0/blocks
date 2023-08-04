@@ -19,7 +19,7 @@ public class GameManager : SingletonBehaviour<GameManager>
     List<GoalObject> goalObjects = new List<GoalObject>(); 
     void Start()
     {
-        
+        //is there a way to assign UI and block options in code?
     }
 
     
